@@ -1,0 +1,3 @@
+<template>
+    estadisticas asies
+</template>
